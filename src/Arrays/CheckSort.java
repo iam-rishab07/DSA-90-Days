@@ -1,3 +1,4 @@
+package Arrays;
 //check if array is sorted
 
 public class CheckSort {

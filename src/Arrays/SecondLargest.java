@@ -1,4 +1,5 @@
-// return the second largest element in the array
+package Arrays;
+// return the second-largest element in the array
 
 public class SecondLargest {
     public int getSecondLargest(int[] arr) {

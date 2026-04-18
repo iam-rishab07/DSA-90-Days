@@ -1,3 +1,7 @@
+// remove duplicate elements in a sorted array
+
+package Arrays;
+
 public class RemoveDup {
     public int removeDuplicates(int[] nums) {
         int i=0;
