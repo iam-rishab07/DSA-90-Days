@@ -1,57 +1,95 @@
 # 🚀 90-Day DSA Challenge: Zero to Tier-1
-A structured journey through 300 curated DSA problems to crack top-tier tech interviews.
+A comprehensive roadmap of 300 curated problems to master Data Structures and Algorithms.
 
 **Start Date:** April 17, 2026  
-**Current Status:** 🟢 Day 02 (In Progress)  
-**Goal:** 3-4 Problems / Day | Weekend Revision
+**Projected End Date:** July 15, 2026  
+**Current Status:** 🟢 Day 01 (In Progress)
 
 ---
 
-## 📊 Overall Progress
-- [ ] **Level 1: Service-Based** (100 Questions) - `0%`
-- [ ] **Level 2: Product-Based** (100 Questions) - `0%`
-- [ ] **Level 3: Tier-1 Companies** (100 Questions) - `0%`
+## 📊 Progress Dashboard
+
+| Phase | Target Companies | Progress | Status |
+| :--- | :--- | :--- | :--- |
+| **Level 1** | TCS, Wipro, Accenture, etc. | 0 / 100 | 🏗️ Active |
+| **Level 2** | Adobe, Walmart, PhonePe, etc. | 0 / 100 | ⏳ Pending |
+| **Level 3** | Google, Amazon, Microsoft, etc. | 0 / 100 | ⏳ Pending |
 
 ---
 
-## 🛠️ Topic-wise Index
-Click on a topic to view the solutions.
+## 📂 Curriculum & Question Bank
 
-| Topic | Problems Solved | Folder Link |
-| :--- | :---: | :--- |
-| 🔢 Arrays & Matrices | 0/300 | [View Code](./Arrays) |
-| 🧵 Strings | 0/300 | [View Code](./Strings) |
-| 🔗 Linked List | 0/300 | [View Code](./LinkedList) |
-| 📚 Stack & Queue | 0/300 | [View Code](./StackQueue) |
-| 🔍 Binary Search | 0/300 | [View Code](./BinarySearch) |
-| 🌲 Trees & BST | 0/300 | [View Code](./Trees) |
-| 🎢 Recursion & Backtracking | 0/300 | [View Code](./Recursion) |
-| 🕸️ Graphs | 0/300 | [View Code](./Graphs) |
-| 💎 Dynamic Programming | 0/300 | [View Code](./DP) |
-| 🏗️ Heaps & Tries | 0/300 | [View Code](./HeapsTries) |
+<details>
+<summary><b>🛠️ Level 1: Service-Based (Questions 1-100)</b></summary>
+
+- [ ] 1. Find the largest element in an array
+- [ ] 2. Find the second largest element in an array
+- [ ] 3. Check if an array is sorted
+- [ ] 4. Remove duplicates from a sorted array
+- [ ] 5. Left rotate an array by one place
+- [ ] 6. Left rotate an array by k places
+- [ ] 7. Move all zeroes to the end
+- [ ] 8. Find the union of two sorted arrays
+- [ ] 9. Find the intersection of two arrays
+- [ ] 10. Find the missing number in an array from 1 to n
+- [ ] *(... Add more as you solve ...)*
+- [ ] 100. House robber basic DP
+</details>
+
+<details>
+<summary><b>🏢 Level 2: Product-Based (Questions 101-200)</b></summary>
+
+- [ ] 101. Longest substring without repeating characters
+- [ ] 102. Longest repeating character replacement
+- [ ] 112. Trapping rain water
+- [ ] 133. LRU cache design
+- [ ] 152. Lowest common ancestor in binary tree
+- [ ] 200. Longest increasing subsequence
+</details>
+
+<details>
+<summary><b>🌍 Level 3: Tier-1 Companies (Questions 201-300)</b></summary>
+
+- [ ] 207. N queens
+- [ ] 228. Dijkstra algorithm
+- [ ] 249. Trie insert and search
+- [ ] 263. Edit distance
+- [ ] 300. Minimum cost to connect all points
+</details>
 
 ---
 
-## 📅 Daily Log (Week 1 Example)
+## 📑 Topic-wise Solutions Index
 
-| Day | Date | Level | Questions Solved | Notes |
+| Topic | Folder Link | Status |
+| :--- | :--- | :--- |
+| 🔢 Arrays & Matrices | [Browse](./Arrays) | 🏗️ |
+| 🧵 Strings | [Browse](./Strings) | ⏳ |
+| 🔗 Linked List | [Browse](./LinkedList) | ⏳ |
+| 🌲 Trees & BST | [Browse](./Trees) | ⏳ |
+| 🕸️ Graphs | [Browse](./Graphs) | ⏳ |
+| 💎 Dynamic Programming | [Browse](./DP) | ⏳ |
+
+---
+
+## 📅 Daily Execution Log
+
+| Day | Date | Level | Questions Solved | Key Learning / Pattern |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 17-Apr | L1 | 1, 2, 3, 4 | Basics of Arrays (Largest, Sorted Check) |
-| 2 | 18-Apr | L1 | 5, 6, 7, 8 | Array Rotations and Zero Movement |
-| 3 | 19-Apr | L1 | 9, 10, 11, 12| Union/Intersection & Missing Number |
-| 4 | 20-Apr | L1 | - | - |
+| 1 | 17-Apr | L1 | 1, 2, 3, 4 | Array traversal and edge cases |
+| 2 | 18-Apr | L1 | 5, 6, 7 | Optimal rotations (Reversal algorithm) |
+| 3 | 19-Apr | L1 | - | - |
 
 ---
 
 ## 💡 Practice Strategy
-1. **The 30-Min Rule:** Try solving without help for 30 mins.
-2. **The Logic First Rule:** Write the algorithm/dry run on paper before coding.
-3. **The Revision Rule:** Every Sunday is for re-solving the "Star" marked (difficult) problems.
+* **30-Minute Rule:** If stuck for 30 mins, check a hint. If stuck for 60, watch a dry run video.
+* **Logic First:** I write the pseudocode on a physical notebook before touching the keyboard.
+* **Weekend Revision:** Every Sunday, I re-solve the "Star Marked" (difficult) problems.
 
 ## ⚙️ Environment
-- **Language:** [Add your language here: e.g. C++ / Java / Python]
-- **Compiler:** [Add version]
-- **Platform:** LeetCode, GFG, Coding Ninjas
+- **Language:** [ Java ]
+- **Platforms:** LeetCode, GeeksforGeeks, Coding Ninjas
 
 ---
-*Generated with ❤️ by Rishi :)
+*Follow my journey! Star ⭐ this repo if you find the solutions helpful.* *Created with ❤️ by Rishi :)*
