@@ -6,11 +6,12 @@ public class Largest {
     public static int largestElement(int[] arr)
     {
         int max = arr[0];
-        for(int i=1;i<arr.length;i++)
+        int n = arr.length;
+        for(int i=1;i<n;i++)
         {
             if(arr[i]>max)
             {
-                max = arr[i];
+                max=arr[i];
             }
         }
         return max;
